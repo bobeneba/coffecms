@@ -23,3 +23,4 @@ $gulp && gulp watch
 
 php artisan serve
 在浏览器中访问 http://localhost:8000/，这会跳转到登录页面：
+#账号密码 admin@example.com / password
